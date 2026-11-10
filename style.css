@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}     
+.img1{
+    width: 100px;
+    margin-left: 5px;
+    margin-right: 700px;
+}     
+header{
+    background-color: #133461;
+    display: flex;
+    width:800px;
+    gap: 30px;
+    border-radius: 5px ;
+    align-items: center;
+    justify-content: center;
+}    
+header h1{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    position: fixed;
+}      
+.img2{
+    margin-left: 90px;
+    width: 200px;
+    height: 160px;
+    border-radius: 8px;
+}    
+fieldset{
+    width: 400px;
+    height: 129px;
+     border-radius: 5px;
+}      
+    .hero{
+        display: flex;
+    }
+    ul{
+        list-style: none;
+    }
+    .deux{
+        margin-left: 30px;
+    }
+    .deux h1{
+        color:#133461 ;
+    }
+    fieldset h2{
+        font-size: 15px;
+        background-color: #89b1ea;
+    }
+    .A_propos{
+        margin-left: 100px;
+        border: 1px solid;
+        width: 625px;
+        border-radius: 5px;
+        padding-bottom: 20px;
+    }
+    .buton{
+         margin-left: 360px;
+         background-color: #265596;
+         width: 100px;
+         padding: 10px;
+         border-radius: 10px;
+    }
+     .A_propos h1{
+        background-color: #89b1ea;
+     }
+     a{
+        text-decoration: none;
+         color: white;
+        
+     }
+     .cadre{
+    border-radius: 10px;
+        width: 800px;
+       margin:auto;
+        padding-bottom: 20px;
+        background-color: rgb(204, 225, 244);
+        margin-top: 30px;
+       box-shadow: 1px 1px 9px rgb(237, 225, 225) ;
+     }
+     a:active{
+        color: rgb(169, 119, 215);
+     }
+     body{
+            background-color: #678abb;
+     }
+     span{
+        color: blue;
+     }
